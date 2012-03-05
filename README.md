@@ -1,4 +1,4 @@
-There are a number of excellent, succinctly-descriptive names out there yet I always have a hell of a time recalling them when my mind is off wandering deep in the land of logic.  Since programming is much more enjoyable when working with aptly-named objects and actions, I've put together a list of commonly useful words.
+There are a number of nice succinctly-descriptive names out there yet I always have a hell of a time recalling them when my mind is off wandering deep in the land of logic.  Since programming is much more enjoyable when working with aptly-named objects and actions, I've put together a list of commonly useful words with a bias towards the short and easy to spell.
 
 # Things / objects
 
@@ -45,38 +45,31 @@ There are a number of excellent, succinctly-descriptive names out there yet I al
 # Actions
 
 * add/remove
-* before/after
+* alias
+* before/after, pre/post
 * build
-* create
-* defer
-* delay
-* delegate
-* destroy
-* draw
+* create/read/update/destroy
+* defer, delay, delegate
 * escape
 * ensure
 * execute
 * extend
 * fetch
-* initialize
+* initialize/reset
 * integrate
 * make
 * on/off
 * parse
 * pluck
-* pre/post
-* read
-* render
-* reset
-* run/kill
+* render, draw
+* refresh, reload
 * set/clear
 * setup/teardown
 * show/hide
 * sort
-* spawn
-* start/stop
-* synchronize
-* update
+* spawn, generate
+* start/stop, run/kill
+* sync
 * validate
 
 
