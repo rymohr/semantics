@@ -87,5 +87,6 @@ There are a number of nice succinctly-descriptive names out there yet I always h
 # Concepts
 
 * onboarding
+* blank slate / empty state
 * decision fatigue
 * progressive reduction
