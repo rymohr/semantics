@@ -83,3 +83,7 @@ There are a number of nice succinctly-descriptive names out there yet I always h
 * ribbon
 * well
 * wrapper
+
+# Concepts
+
+* decision fatigue
