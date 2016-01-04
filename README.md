@@ -88,3 +88,4 @@ There are a number of nice succinctly-descriptive names out there yet I always h
 
 * onboarding
 * decision fatigue
+* progressive reduction
